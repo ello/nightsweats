@@ -2,7 +2,7 @@
 
 A spike to figure out a testing tool direction. After setting each of these up I
 created a single test scenario around performing a few different searches. This
-is similar to the in our [existing integration test for the search container](https://github.com/ello/webapp/blob/master/test/integration/containers/Search_test.js).
+is similar to our [existing integration test for the search container](https://github.com/ello/webapp/blob/master/test/integration/containers/Search_test.js).
 
 ## Nightmare
 
@@ -75,5 +75,6 @@ roll.
 [nightwatch]: http://nightwatchjs.org
 [phantom]: http://phantomjs.org
 [ruby-e2e]: https://github.com/ello/integration-tests
+[selenium]: http://docs.seleniumhq.org 
 
 
