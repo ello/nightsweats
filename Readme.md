@@ -53,7 +53,6 @@ There is a `postinstall` hook for nightwatch to install selenium and
 chromedriver. It was a little funky for me but should be setup and ready to
 roll.
 
-+8200 Github stars
 
 ### Pros
 - Well documented
